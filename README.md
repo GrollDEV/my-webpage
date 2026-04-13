@@ -25,3 +25,13 @@ This project focuses on practicing **Flexbox** layout techniques by recreating a
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/) — Project brief and design mockup
+
+## Image Sources
+
+| Image | Source |
+|-------|--------|
+| `img/header-logo.png` — Brand logo | Self-created with [ChatGPT / DALL·E](https://openai.com/chatgpt) (own work) |
+| HTML5-Logo (`html5-original-wordmark.svg`) | [Devicon](https://devicon.dev/) via [jsDelivr CDN](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg) — MIT License |
+| CSS3-Logo (`css3-original-wordmark.svg`) | [Devicon](https://devicon.dev/) via [jsDelivr CDN](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg) — MIT License |
+| JavaScript-Logo (`javascript-original.svg`) | [Devicon](https://devicon.dev/) via [jsDelivr CDN](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) — MIT License |
+| Ruby-Logo (`ruby-original-wordmark.svg`) | [Devicon](https://devicon.dev/) via [jsDelivr CDN](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg) — MIT License |
