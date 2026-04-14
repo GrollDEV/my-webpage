@@ -27,7 +27,7 @@ width: 250px;
 }
 
 .devgroll-logo {
-    width: 150px;
+    width: 100px;
 }
 
 .header-content {
@@ -151,6 +151,7 @@ width: 250px;
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
+    font-style: italic;
 }
 
 .quote-author {
