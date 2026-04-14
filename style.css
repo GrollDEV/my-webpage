@@ -3,7 +3,8 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    margin: 0px
+    margin: 0px;
+    
     
 }
 
@@ -21,8 +22,12 @@ ul {
     
 }
 
-img {
+.head-logo {
 width: 250px;
+}
+
+.devgroll-logo {
+    width: 150px;
 }
 
 .header-content {
@@ -47,7 +52,7 @@ width: 250px;
 
 .hero-text, .link {
     font-size: 18px;
-    color: #bbbec5;
+    color: #E5E7EB;
 }
 
 .header-top {
@@ -82,4 +87,45 @@ width: 250px;
     font-weight: bold;
     border: solid #1F2937 1px;
     border-radius: 12px;
+}
+
+.mid-one {
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+}
+
+.info {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    padding-bottom: 50px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+    padding-bottom: 100px;
+}
+
+.box-one, .box-two, .box-three, .box-four {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+}
+
+.dev-logo {
+    width: 150px;
+}
+
+.box-text {
+    color: #797b7e;
 }
