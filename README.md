@@ -1,6 +1,6 @@
 # Landing Page — The Odin Project
 
-A responsive landing page built as part of [The Odin Project](https://www.theodinproject.com/) Foundations curriculum.
+A landing page built as part of [The Odin Project](https://www.theodinproject.com/) Foundations curriculum.
 
 ## Project Overview
 
